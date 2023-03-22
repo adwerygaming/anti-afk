@@ -1,0 +1,16 @@
+{
+  "name": "anti-afk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["automation", "mouse", "itmovesyourmouse"],
+  "author": "DevanAditiya",
+  "license": "MIT",
+  "dependencies": {
+    "node-global-key-listener": "^0.1.1",
+    "robotjs": "^0.6.0"
+  }
+}
