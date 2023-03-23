@@ -16,7 +16,8 @@
 
 ## Installation
 
-First, You Need [NodeJS](https://nodejs.org/en/download) Version 18 Or Higher To Make This Works Properly.
+First, Download [Latest Releases](https://github.com/adwerygaming/anti-afk/releases/tag/release), Then Extract And Put it Somehere.
+Second, You Need [NodeJS](https://nodejs.org/en/download) Version 18 Or Higher To Make This Works Properly.
 
 Important, You Need To Install [Visual Studio Installer](https://visualstudio.microsoft.com/downloads/) 
 
