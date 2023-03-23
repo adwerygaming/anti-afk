@@ -47,5 +47,4 @@ If You Done, You Can Run `npm install` to Install Packages.
     4. Press CTRL + C. It Should Stop Now. (Press Multiple Times, If Not Stopped)
 
 Still Not Understand? Watch This YouTube Video.
-[![How to Stop ANTI-AFK Script on YouTube](![image](https://user-images.githubusercontent.com/50104357/227069852-a9e43aa3-db62-4b6e-9ff3-d451706c01db.png)
-)](http://www.youtube.com/watch?v=be5zuwn9nPs "How to Stop ANTI-AFK Script")
+[![How to Stop ANTI-AFK Script on YouTube](https://user-images.githubusercontent.com/50104357/227069852-a9e43aa3-db62-4b6e-9ff3-d451706c01db.png)](http://www.youtube.com/watch?v=be5zuwn9nPs "How to Stop ANTI-AFK Script")
