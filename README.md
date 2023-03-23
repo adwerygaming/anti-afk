@@ -1,11 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-# ANTI-AFK
-
-### It Moves Your Cursor: Use This Script to Move Your Mouse Cursor Randomly.
-
+![20230323_065849](https://user-images.githubusercontent.com/50104357/227064998-ec8d4d43-3cdb-41c5-a9b7-d1491acbf963.png)
 
 
 ## Screenshots
